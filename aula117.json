@@ -1,0 +1,22 @@
+{
+  "nome": "Rickelmme",
+  "sobrenome": "Barreto",
+  "enderecos": [
+    {
+      "rua": "R1",
+      "numero": 32
+    },
+    {
+      "rua": "R2",
+      "numero": 55
+    }
+  ],
+  "altura": 1.7,
+  "numeros_preferidos": [
+    4,
+    7,
+    9
+  ],
+  "dev": true,
+  "nada": null
+}
